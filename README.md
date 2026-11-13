@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# VANQ Core放心云机场官方地址(2026年11月11日更新)
+# VANQ Core放心云机场官方地址(2026年11月13日更新)
 VANQ Core放心云机场官网地址</br>
 最新地址：[vq.wanwan.biz.id](https://to.iix.im/vanq01)</br>
 官方地址：[vq.wanwan.biz.id](https://to.iix.im/vanq01)</br>
